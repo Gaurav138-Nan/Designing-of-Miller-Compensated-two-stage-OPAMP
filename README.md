@@ -4,17 +4,29 @@ Design of miller compensated two stage opamp:
 
 Here we have attempted to design a two stage opamp in LTSPICE with the following specifications:
 (All the aspect ratios are being considered with respect to 1um Length)
+</br>
 Open Loop Gain= 70db.
+</br>
 Gain Bandwidth= 8 Mhz.
+</br>
 SR >=10v/us.
+</br>
 ICMR >=1.5V.
+</br>
 Vin:2.7V to 1.2 V
+</br>
 Vdd= 3.3V.
+</br>
 PM>= 60 deg.
+</br>
 CL=10pF.
-Kp=50uA/V.(Assumed
+</br>
+Kp=50uA/V.(Assumed)
+</br>
 Kn=110uA/V.(Assumed)
+</br>
 Pdiss<=2mW
+</br>
 
 
 
@@ -39,11 +51,18 @@ Pdiss<=2mW
 
 
 
-The 
+**The 
 
-Circuit Diagram
+Circuit Diagram**
+</br>
+</br>
+</br>
+</br>
+![image](https://user-images.githubusercontent.com/75901646/185986941-0d3b50d1-16d9-4b2e-bab0-fc01e57a9e23.png)
+</br></br></br></br></br>
 
-Design Steps:
+
+**Design Steps:**
 
 
 
