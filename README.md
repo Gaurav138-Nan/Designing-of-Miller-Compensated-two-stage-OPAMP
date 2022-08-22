@@ -63,18 +63,24 @@ Pdiss<=2mW
 **Design Steps:**
 
 </br>
-
+</br>
 ![image](https://user-images.githubusercontent.com/75901646/185987160-277db655-e26e-4ec4-9fbc-d7d7f503d576.png)
 </br>
+</br>
+</br>
 ![image](https://user-images.githubusercontent.com/75901646/185987178-bdc333f5-b242-4192-b8fd-e5f10667dec9.png)
+</br>
+</br>
 </br>
 ![image](https://user-images.githubusercontent.com/75901646/185987195-caaa7d4b-794b-424b-91f1-4291c4d9da17.png)
 </br>
 </br>
+</br>
 Checking the gain as well as power dissipation from the calculated values
 </br>
+</br>
 ![image](https://user-images.githubusercontent.com/75901646/185987203-4e8e07c9-b0fe-47ee-afb8-e86f26746974.png)
-
+</br>
 </br>
 </br>
 </br>
